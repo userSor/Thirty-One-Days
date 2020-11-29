@@ -8,5 +8,5 @@ A game about surviving in a mysterious forest.
 Survive for Thirty One Days.
 
 ### Credits
-Creator: Jason Huang
+Creator: Jason Huang  
 Idea Contributors: Jason's friends
